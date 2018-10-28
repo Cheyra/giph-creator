@@ -1,0 +1,78 @@
+
+body{background-image: url(maxresdefault.jpg);
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   
+  
+    font-family: 'Indie Flower', cursive;
+   
+  
+   
+
+    
+    
+color:navy}
+#quote {position:relative;
+    top:50px;
+    font-size: 60px;
+}
+#animeHead{
+    position:relative;
+    top:150px;
+    
+    font-size: 60px;
+    padding-left:100px;
+    padding-right:100px
+    ;
+    width:400px;
+    
+}
+#giphyForm{
+    position: relative;
+    top:200px;
+    margin:10px
+    
+    }
+   /* .giphs{float:left}*/
+.displayGiph{
+    float:left;
+  padding: 30px;
+   
+  
+}
+.vid{
+    height:200px;
+    width: 200px;
+    padding: 10px
+  
+}
+#giphyPlacement{  position:relative;
+    top:250px;
+    
+    width: 70%
+}
+#fav-heading {background-color: lightblue;
+    width:200px;
+    border: 5px;
+    border-style: groove;
+    border-color: navy;
+
+    
+    margin:10px;
+    position:relative;
+    left:-7px
+}
+.fava{position:relative;
+top:240px}
+button {
+    background-color:lightblue
+}
+#giphySearch{background-color: lightblue }
+.rat {background-color: lightcyan}
+.glass:before,
+#giphySearch input{font-family: "FontAwesome";
+    content:"\f002";
+}
